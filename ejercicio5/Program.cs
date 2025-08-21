@@ -28,8 +28,7 @@
                 Console.ReadLine();
             }
            
-            //ewer
-            //sddf
+            
         }
     }
 }
